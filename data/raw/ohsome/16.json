@@ -1,0 +1,447 @@
+{
+ "attribution": {
+  "url": "https://ohsome.org/copyrights",
+  "text": "\u00a9 OpenStreetMap contributors"
+ },
+ "apiVersion": "1.10.4",
+ "groupByResult": [
+  {
+   "groupByObject": "remainder",
+   "result": [
+    {
+     "timestamp": "2010-01-01T00:00:00Z",
+     "value": 316.0
+    },
+    {
+     "timestamp": "2011-01-01T00:00:00Z",
+     "value": 560.0
+    },
+    {
+     "timestamp": "2012-01-01T00:00:00Z",
+     "value": 803.0
+    },
+    {
+     "timestamp": "2013-01-01T00:00:00Z",
+     "value": 1133.0
+    },
+    {
+     "timestamp": "2014-01-01T00:00:00Z",
+     "value": 1589.0
+    },
+    {
+     "timestamp": "2015-01-01T00:00:00Z",
+     "value": 2998.0
+    },
+    {
+     "timestamp": "2016-01-01T00:00:00Z",
+     "value": 4214.0
+    },
+    {
+     "timestamp": "2017-01-01T00:00:00Z",
+     "value": 11770.0
+    },
+    {
+     "timestamp": "2018-01-01T00:00:00Z",
+     "value": 12476.0
+    },
+    {
+     "timestamp": "2019-01-01T00:00:00Z",
+     "value": 13836.0
+    },
+    {
+     "timestamp": "2020-01-01T00:00:00Z",
+     "value": 14288.0
+    },
+    {
+     "timestamp": "2021-01-01T00:00:00Z",
+     "value": 14758.0
+    },
+    {
+     "timestamp": "2022-01-01T00:00:00Z",
+     "value": 15341.0
+    },
+    {
+     "timestamp": "2023-01-01T00:00:00Z",
+     "value": 16023.0
+    },
+    {
+     "timestamp": "2024-01-01T00:00:00Z",
+     "value": 17265.0
+    },
+    {
+     "timestamp": "2025-01-01T00:00:00Z",
+     "value": 17548.0
+    },
+    {
+     "timestamp": "2026-01-01T00:00:00Z",
+     "value": 18643.0
+    }
+   ]
+  },
+  {
+   "groupByObject": "leisure=pitch",
+   "result": [
+    {
+     "timestamp": "2010-01-01T00:00:00Z",
+     "value": 34.0
+    },
+    {
+     "timestamp": "2011-01-01T00:00:00Z",
+     "value": 54.0
+    },
+    {
+     "timestamp": "2012-01-01T00:00:00Z",
+     "value": 157.0
+    },
+    {
+     "timestamp": "2013-01-01T00:00:00Z",
+     "value": 367.0
+    },
+    {
+     "timestamp": "2014-01-01T00:00:00Z",
+     "value": 794.0
+    },
+    {
+     "timestamp": "2015-01-01T00:00:00Z",
+     "value": 1203.0
+    },
+    {
+     "timestamp": "2016-01-01T00:00:00Z",
+     "value": 1516.0
+    },
+    {
+     "timestamp": "2017-01-01T00:00:00Z",
+     "value": 2021.0
+    },
+    {
+     "timestamp": "2018-01-01T00:00:00Z",
+     "value": 2323.0
+    },
+    {
+     "timestamp": "2019-01-01T00:00:00Z",
+     "value": 2648.0
+    },
+    {
+     "timestamp": "2020-01-01T00:00:00Z",
+     "value": 2841.0
+    },
+    {
+     "timestamp": "2021-01-01T00:00:00Z",
+     "value": 2984.0
+    },
+    {
+     "timestamp": "2022-01-01T00:00:00Z",
+     "value": 3156.0
+    },
+    {
+     "timestamp": "2023-01-01T00:00:00Z",
+     "value": 3375.0
+    },
+    {
+     "timestamp": "2024-01-01T00:00:00Z",
+     "value": 3754.0
+    },
+    {
+     "timestamp": "2025-01-01T00:00:00Z",
+     "value": 3852.0
+    },
+    {
+     "timestamp": "2026-01-01T00:00:00Z",
+     "value": 3979.0
+    }
+   ]
+  },
+  {
+   "groupByObject": "leisure=sports_centre",
+   "result": [
+    {
+     "timestamp": "2010-01-01T00:00:00Z",
+     "value": 32.0
+    },
+    {
+     "timestamp": "2011-01-01T00:00:00Z",
+     "value": 57.0
+    },
+    {
+     "timestamp": "2012-01-01T00:00:00Z",
+     "value": 113.0
+    },
+    {
+     "timestamp": "2013-01-01T00:00:00Z",
+     "value": 158.0
+    },
+    {
+     "timestamp": "2014-01-01T00:00:00Z",
+     "value": 216.0
+    },
+    {
+     "timestamp": "2015-01-01T00:00:00Z",
+     "value": 254.0
+    },
+    {
+     "timestamp": "2016-01-01T00:00:00Z",
+     "value": 319.0
+    },
+    {
+     "timestamp": "2017-01-01T00:00:00Z",
+     "value": 398.0
+    },
+    {
+     "timestamp": "2018-01-01T00:00:00Z",
+     "value": 418.0
+    },
+    {
+     "timestamp": "2019-01-01T00:00:00Z",
+     "value": 449.0
+    },
+    {
+     "timestamp": "2020-01-01T00:00:00Z",
+     "value": 465.0
+    },
+    {
+     "timestamp": "2021-01-01T00:00:00Z",
+     "value": 485.0
+    },
+    {
+     "timestamp": "2022-01-01T00:00:00Z",
+     "value": 498.0
+    },
+    {
+     "timestamp": "2023-01-01T00:00:00Z",
+     "value": 512.0
+    },
+    {
+     "timestamp": "2024-01-01T00:00:00Z",
+     "value": 545.0
+    },
+    {
+     "timestamp": "2025-01-01T00:00:00Z",
+     "value": 550.0
+    },
+    {
+     "timestamp": "2026-01-01T00:00:00Z",
+     "value": 571.0
+    }
+   ]
+  },
+  {
+   "groupByObject": "leisure=track",
+   "result": [
+    {
+     "timestamp": "2010-01-01T00:00:00Z",
+     "value": 3.0
+    },
+    {
+     "timestamp": "2011-01-01T00:00:00Z",
+     "value": 6.0
+    },
+    {
+     "timestamp": "2012-01-01T00:00:00Z",
+     "value": 16.0
+    },
+    {
+     "timestamp": "2013-01-01T00:00:00Z",
+     "value": 23.0
+    },
+    {
+     "timestamp": "2014-01-01T00:00:00Z",
+     "value": 32.0
+    },
+    {
+     "timestamp": "2015-01-01T00:00:00Z",
+     "value": 54.0
+    },
+    {
+     "timestamp": "2016-01-01T00:00:00Z",
+     "value": 60.0
+    },
+    {
+     "timestamp": "2017-01-01T00:00:00Z",
+     "value": 66.0
+    },
+    {
+     "timestamp": "2018-01-01T00:00:00Z",
+     "value": 74.0
+    },
+    {
+     "timestamp": "2019-01-01T00:00:00Z",
+     "value": 73.0
+    },
+    {
+     "timestamp": "2020-01-01T00:00:00Z",
+     "value": 81.0
+    },
+    {
+     "timestamp": "2021-01-01T00:00:00Z",
+     "value": 92.0
+    },
+    {
+     "timestamp": "2022-01-01T00:00:00Z",
+     "value": 96.0
+    },
+    {
+     "timestamp": "2023-01-01T00:00:00Z",
+     "value": 100.0
+    },
+    {
+     "timestamp": "2024-01-01T00:00:00Z",
+     "value": 127.0
+    },
+    {
+     "timestamp": "2025-01-01T00:00:00Z",
+     "value": 132.0
+    },
+    {
+     "timestamp": "2026-01-01T00:00:00Z",
+     "value": 141.0
+    }
+   ]
+  },
+  {
+   "groupByObject": "leisure=fitness_centre",
+   "result": [
+    {
+     "timestamp": "2010-01-01T00:00:00Z",
+     "value": 0.0
+    },
+    {
+     "timestamp": "2011-01-01T00:00:00Z",
+     "value": 0.0
+    },
+    {
+     "timestamp": "2012-01-01T00:00:00Z",
+     "value": 0.0
+    },
+    {
+     "timestamp": "2013-01-01T00:00:00Z",
+     "value": 0.0
+    },
+    {
+     "timestamp": "2014-01-01T00:00:00Z",
+     "value": 0.0
+    },
+    {
+     "timestamp": "2015-01-01T00:00:00Z",
+     "value": 0.0
+    },
+    {
+     "timestamp": "2016-01-01T00:00:00Z",
+     "value": 1.0
+    },
+    {
+     "timestamp": "2017-01-01T00:00:00Z",
+     "value": 4.0
+    },
+    {
+     "timestamp": "2018-01-01T00:00:00Z",
+     "value": 11.0
+    },
+    {
+     "timestamp": "2019-01-01T00:00:00Z",
+     "value": 22.0
+    },
+    {
+     "timestamp": "2020-01-01T00:00:00Z",
+     "value": 33.0
+    },
+    {
+     "timestamp": "2021-01-01T00:00:00Z",
+     "value": 35.0
+    },
+    {
+     "timestamp": "2022-01-01T00:00:00Z",
+     "value": 39.0
+    },
+    {
+     "timestamp": "2023-01-01T00:00:00Z",
+     "value": 45.0
+    },
+    {
+     "timestamp": "2024-01-01T00:00:00Z",
+     "value": 53.0
+    },
+    {
+     "timestamp": "2025-01-01T00:00:00Z",
+     "value": 64.0
+    },
+    {
+     "timestamp": "2026-01-01T00:00:00Z",
+     "value": 99.0
+    }
+   ]
+  },
+  {
+   "groupByObject": "leisure=stadium",
+   "result": [
+    {
+     "timestamp": "2010-01-01T00:00:00Z",
+     "value": 22.0
+    },
+    {
+     "timestamp": "2011-01-01T00:00:00Z",
+     "value": 29.0
+    },
+    {
+     "timestamp": "2012-01-01T00:00:00Z",
+     "value": 38.0
+    },
+    {
+     "timestamp": "2013-01-01T00:00:00Z",
+     "value": 54.0
+    },
+    {
+     "timestamp": "2014-01-01T00:00:00Z",
+     "value": 67.0
+    },
+    {
+     "timestamp": "2015-01-01T00:00:00Z",
+     "value": 73.0
+    },
+    {
+     "timestamp": "2016-01-01T00:00:00Z",
+     "value": 76.0
+    },
+    {
+     "timestamp": "2017-01-01T00:00:00Z",
+     "value": 80.0
+    },
+    {
+     "timestamp": "2018-01-01T00:00:00Z",
+     "value": 88.0
+    },
+    {
+     "timestamp": "2019-01-01T00:00:00Z",
+     "value": 88.0
+    },
+    {
+     "timestamp": "2020-01-01T00:00:00Z",
+     "value": 87.0
+    },
+    {
+     "timestamp": "2021-01-01T00:00:00Z",
+     "value": 88.0
+    },
+    {
+     "timestamp": "2022-01-01T00:00:00Z",
+     "value": 88.0
+    },
+    {
+     "timestamp": "2023-01-01T00:00:00Z",
+     "value": 89.0
+    },
+    {
+     "timestamp": "2024-01-01T00:00:00Z",
+     "value": 92.0
+    },
+    {
+     "timestamp": "2025-01-01T00:00:00Z",
+     "value": 94.0
+    },
+    {
+     "timestamp": "2026-01-01T00:00:00Z",
+     "value": 92.0
+    }
+   ]
+  }
+ ]
+}

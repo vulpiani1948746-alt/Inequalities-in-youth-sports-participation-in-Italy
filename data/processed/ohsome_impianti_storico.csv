@@ -1,0 +1,1701 @@
+regione,anno,categoria,n_elementi
+Piemonte,2010,campi,10
+Piemonte,2011,campi,251
+Piemonte,2012,campi,533
+Piemonte,2013,campi,1060
+Piemonte,2014,campi,2012
+Piemonte,2015,campi,2951
+Piemonte,2016,campi,3630
+Piemonte,2017,campi,4068
+Piemonte,2018,campi,4403
+Piemonte,2019,campi,4853
+Piemonte,2020,campi,5211
+Piemonte,2021,campi,5622
+Piemonte,2022,campi,5940
+Piemonte,2023,campi,6180
+Piemonte,2024,campi,6572
+Piemonte,2025,campi,7102
+Piemonte,2026,campi,7550
+Piemonte,2010,centri_sportivi,13
+Piemonte,2011,centri_sportivi,56
+Piemonte,2012,centri_sportivi,113
+Piemonte,2013,centri_sportivi,219
+Piemonte,2014,centri_sportivi,323
+Piemonte,2015,centri_sportivi,424
+Piemonte,2016,centri_sportivi,569
+Piemonte,2017,centri_sportivi,653
+Piemonte,2018,centri_sportivi,710
+Piemonte,2019,centri_sportivi,831
+Piemonte,2020,centri_sportivi,924
+Piemonte,2021,centri_sportivi,1016
+Piemonte,2022,centri_sportivi,1094
+Piemonte,2023,centri_sportivi,1118
+Piemonte,2024,centri_sportivi,1160
+Piemonte,2025,centri_sportivi,1271
+Piemonte,2026,centri_sportivi,1334
+Piemonte,2010,piste,2
+Piemonte,2011,piste,28
+Piemonte,2012,piste,59
+Piemonte,2013,piste,83
+Piemonte,2014,piste,96
+Piemonte,2015,piste,99
+Piemonte,2016,piste,115
+Piemonte,2017,piste,145
+Piemonte,2018,piste,153
+Piemonte,2019,piste,173
+Piemonte,2020,piste,169
+Piemonte,2021,piste,177
+Piemonte,2022,piste,173
+Piemonte,2023,piste,179
+Piemonte,2024,piste,206
+Piemonte,2025,piste,324
+Piemonte,2026,piste,361
+Piemonte,2010,palestre,0
+Piemonte,2011,palestre,0
+Piemonte,2012,palestre,0
+Piemonte,2013,palestre,0
+Piemonte,2014,palestre,0
+Piemonte,2015,palestre,0
+Piemonte,2016,palestre,1
+Piemonte,2017,palestre,6
+Piemonte,2018,palestre,24
+Piemonte,2019,palestre,47
+Piemonte,2020,palestre,72
+Piemonte,2021,palestre,98
+Piemonte,2022,palestre,111
+Piemonte,2023,palestre,120
+Piemonte,2024,palestre,145
+Piemonte,2025,palestre,162
+Piemonte,2026,palestre,194
+Piemonte,2010,stadi,5
+Piemonte,2011,stadi,18
+Piemonte,2012,stadi,31
+Piemonte,2013,stadi,49
+Piemonte,2014,stadi,69
+Piemonte,2015,stadi,73
+Piemonte,2016,stadi,75
+Piemonte,2017,stadi,79
+Piemonte,2018,stadi,99
+Piemonte,2019,stadi,101
+Piemonte,2020,stadi,99
+Piemonte,2021,stadi,98
+Piemonte,2022,stadi,98
+Piemonte,2023,stadi,97
+Piemonte,2024,stadi,99
+Piemonte,2025,stadi,93
+Piemonte,2026,stadi,91
+Valle d'Aosta,2010,campi,3
+Valle d'Aosta,2011,campi,6
+Valle d'Aosta,2012,campi,21
+Valle d'Aosta,2013,campi,47
+Valle d'Aosta,2014,campi,112
+Valle d'Aosta,2015,campi,147
+Valle d'Aosta,2016,campi,192
+Valle d'Aosta,2017,campi,228
+Valle d'Aosta,2018,campi,235
+Valle d'Aosta,2019,campi,287
+Valle d'Aosta,2020,campi,300
+Valle d'Aosta,2021,campi,307
+Valle d'Aosta,2022,campi,310
+Valle d'Aosta,2023,campi,316
+Valle d'Aosta,2024,campi,326
+Valle d'Aosta,2025,campi,349
+Valle d'Aosta,2026,campi,346
+Valle d'Aosta,2010,centri_sportivi,3
+Valle d'Aosta,2011,centri_sportivi,4
+Valle d'Aosta,2012,centri_sportivi,7
+Valle d'Aosta,2013,centri_sportivi,9
+Valle d'Aosta,2014,centri_sportivi,17
+Valle d'Aosta,2015,centri_sportivi,27
+Valle d'Aosta,2016,centri_sportivi,33
+Valle d'Aosta,2017,centri_sportivi,36
+Valle d'Aosta,2018,centri_sportivi,36
+Valle d'Aosta,2019,centri_sportivi,36
+Valle d'Aosta,2020,centri_sportivi,41
+Valle d'Aosta,2021,centri_sportivi,47
+Valle d'Aosta,2022,centri_sportivi,57
+Valle d'Aosta,2023,centri_sportivi,58
+Valle d'Aosta,2024,centri_sportivi,59
+Valle d'Aosta,2025,centri_sportivi,70
+Valle d'Aosta,2026,centri_sportivi,74
+Valle d'Aosta,2010,piste,1
+Valle d'Aosta,2011,piste,0
+Valle d'Aosta,2012,piste,0
+Valle d'Aosta,2013,piste,1
+Valle d'Aosta,2014,piste,2
+Valle d'Aosta,2015,piste,5
+Valle d'Aosta,2016,piste,6
+Valle d'Aosta,2017,piste,6
+Valle d'Aosta,2018,piste,6
+Valle d'Aosta,2019,piste,6
+Valle d'Aosta,2020,piste,6
+Valle d'Aosta,2021,piste,7
+Valle d'Aosta,2022,piste,6
+Valle d'Aosta,2023,piste,7
+Valle d'Aosta,2024,piste,7
+Valle d'Aosta,2025,piste,11
+Valle d'Aosta,2026,piste,12
+Valle d'Aosta,2010,palestre,0
+Valle d'Aosta,2011,palestre,0
+Valle d'Aosta,2012,palestre,0
+Valle d'Aosta,2013,palestre,0
+Valle d'Aosta,2014,palestre,0
+Valle d'Aosta,2015,palestre,0
+Valle d'Aosta,2016,palestre,0
+Valle d'Aosta,2017,palestre,0
+Valle d'Aosta,2018,palestre,3
+Valle d'Aosta,2019,palestre,3
+Valle d'Aosta,2020,palestre,3
+Valle d'Aosta,2021,palestre,4
+Valle d'Aosta,2022,palestre,4
+Valle d'Aosta,2023,palestre,4
+Valle d'Aosta,2024,palestre,4
+Valle d'Aosta,2025,palestre,4
+Valle d'Aosta,2026,palestre,4
+Valle d'Aosta,2010,stadi,0
+Valle d'Aosta,2011,stadi,4
+Valle d'Aosta,2012,stadi,5
+Valle d'Aosta,2013,stadi,6
+Valle d'Aosta,2014,stadi,6
+Valle d'Aosta,2015,stadi,7
+Valle d'Aosta,2016,stadi,7
+Valle d'Aosta,2017,stadi,7
+Valle d'Aosta,2018,stadi,7
+Valle d'Aosta,2019,stadi,7
+Valle d'Aosta,2020,stadi,7
+Valle d'Aosta,2021,stadi,7
+Valle d'Aosta,2022,stadi,7
+Valle d'Aosta,2023,stadi,7
+Valle d'Aosta,2024,stadi,6
+Valle d'Aosta,2025,stadi,6
+Valle d'Aosta,2026,stadi,6
+Lombardia,2010,campi,328
+Lombardia,2011,campi,1098
+Lombardia,2012,campi,1870
+Lombardia,2013,campi,3217
+Lombardia,2014,campi,5258
+Lombardia,2015,campi,7338
+Lombardia,2016,campi,9153
+Lombardia,2017,campi,10561
+Lombardia,2018,campi,11221
+Lombardia,2019,campi,11914
+Lombardia,2020,campi,12407
+Lombardia,2021,campi,13035
+Lombardia,2022,campi,13618
+Lombardia,2023,campi,14000
+Lombardia,2024,campi,14366
+Lombardia,2025,campi,14810
+Lombardia,2026,campi,15447
+Lombardia,2010,centri_sportivi,228
+Lombardia,2011,centri_sportivi,418
+Lombardia,2012,centri_sportivi,561
+Lombardia,2013,centri_sportivi,866
+Lombardia,2014,centri_sportivi,1077
+Lombardia,2015,centri_sportivi,1271
+Lombardia,2016,centri_sportivi,1426
+Lombardia,2017,centri_sportivi,1614
+Lombardia,2018,centri_sportivi,1749
+Lombardia,2019,centri_sportivi,1862
+Lombardia,2020,centri_sportivi,1936
+Lombardia,2021,centri_sportivi,2036
+Lombardia,2022,centri_sportivi,2136
+Lombardia,2023,centri_sportivi,2193
+Lombardia,2024,centri_sportivi,2227
+Lombardia,2025,centri_sportivi,2311
+Lombardia,2026,centri_sportivi,2400
+Lombardia,2010,piste,20
+Lombardia,2011,piste,51
+Lombardia,2012,piste,100
+Lombardia,2013,piste,164
+Lombardia,2014,piste,226
+Lombardia,2015,piste,336
+Lombardia,2016,piste,418
+Lombardia,2017,piste,499
+Lombardia,2018,piste,524
+Lombardia,2019,piste,551
+Lombardia,2020,piste,563
+Lombardia,2021,piste,592
+Lombardia,2022,piste,625
+Lombardia,2023,piste,645
+Lombardia,2024,piste,664
+Lombardia,2025,piste,739
+Lombardia,2026,piste,791
+Lombardia,2010,palestre,0
+Lombardia,2011,palestre,0
+Lombardia,2012,palestre,0
+Lombardia,2013,palestre,0
+Lombardia,2014,palestre,4
+Lombardia,2015,palestre,6
+Lombardia,2016,palestre,34
+Lombardia,2017,palestre,70
+Lombardia,2018,palestre,157
+Lombardia,2019,palestre,229
+Lombardia,2020,palestre,275
+Lombardia,2021,palestre,340
+Lombardia,2022,palestre,368
+Lombardia,2023,palestre,403
+Lombardia,2024,palestre,434
+Lombardia,2025,palestre,473
+Lombardia,2026,palestre,547
+Lombardia,2010,stadi,34
+Lombardia,2011,stadi,75
+Lombardia,2012,stadi,90
+Lombardia,2013,stadi,105
+Lombardia,2014,stadi,133
+Lombardia,2015,stadi,141
+Lombardia,2016,stadi,150
+Lombardia,2017,stadi,148
+Lombardia,2018,stadi,150
+Lombardia,2019,stadi,147
+Lombardia,2020,stadi,146
+Lombardia,2021,stadi,140
+Lombardia,2022,stadi,139
+Lombardia,2023,stadi,137
+Lombardia,2024,stadi,140
+Lombardia,2025,stadi,135
+Lombardia,2026,stadi,138
+Trentino-Alto Adige,2010,campi,220
+Trentino-Alto Adige,2011,campi,491
+Trentino-Alto Adige,2012,campi,941
+Trentino-Alto Adige,2013,campi,1157
+Trentino-Alto Adige,2014,campi,1695
+Trentino-Alto Adige,2015,campi,1973
+Trentino-Alto Adige,2016,campi,2105
+Trentino-Alto Adige,2017,campi,2278
+Trentino-Alto Adige,2018,campi,2345
+Trentino-Alto Adige,2019,campi,2477
+Trentino-Alto Adige,2020,campi,2577
+Trentino-Alto Adige,2021,campi,2668
+Trentino-Alto Adige,2022,campi,2765
+Trentino-Alto Adige,2023,campi,2857
+Trentino-Alto Adige,2024,campi,2950
+Trentino-Alto Adige,2025,campi,3027
+Trentino-Alto Adige,2026,campi,3094
+Trentino-Alto Adige,2010,centri_sportivi,97
+Trentino-Alto Adige,2011,centri_sportivi,157
+Trentino-Alto Adige,2012,centri_sportivi,194
+Trentino-Alto Adige,2013,centri_sportivi,219
+Trentino-Alto Adige,2014,centri_sportivi,262
+Trentino-Alto Adige,2015,centri_sportivi,277
+Trentino-Alto Adige,2016,centri_sportivi,290
+Trentino-Alto Adige,2017,centri_sportivi,321
+Trentino-Alto Adige,2018,centri_sportivi,335
+Trentino-Alto Adige,2019,centri_sportivi,355
+Trentino-Alto Adige,2020,centri_sportivi,369
+Trentino-Alto Adige,2021,centri_sportivi,406
+Trentino-Alto Adige,2022,centri_sportivi,411
+Trentino-Alto Adige,2023,centri_sportivi,491
+Trentino-Alto Adige,2024,centri_sportivi,527
+Trentino-Alto Adige,2025,centri_sportivi,546
+Trentino-Alto Adige,2026,centri_sportivi,522
+Trentino-Alto Adige,2010,piste,22
+Trentino-Alto Adige,2011,piste,22
+Trentino-Alto Adige,2012,piste,63
+Trentino-Alto Adige,2013,piste,77
+Trentino-Alto Adige,2014,piste,87
+Trentino-Alto Adige,2015,piste,91
+Trentino-Alto Adige,2016,piste,100
+Trentino-Alto Adige,2017,piste,107
+Trentino-Alto Adige,2018,piste,112
+Trentino-Alto Adige,2019,piste,137
+Trentino-Alto Adige,2020,piste,149
+Trentino-Alto Adige,2021,piste,162
+Trentino-Alto Adige,2022,piste,174
+Trentino-Alto Adige,2023,piste,196
+Trentino-Alto Adige,2024,piste,203
+Trentino-Alto Adige,2025,piste,209
+Trentino-Alto Adige,2026,piste,215
+Trentino-Alto Adige,2010,palestre,0
+Trentino-Alto Adige,2011,palestre,0
+Trentino-Alto Adige,2012,palestre,0
+Trentino-Alto Adige,2013,palestre,0
+Trentino-Alto Adige,2014,palestre,0
+Trentino-Alto Adige,2015,palestre,0
+Trentino-Alto Adige,2016,palestre,0
+Trentino-Alto Adige,2017,palestre,3
+Trentino-Alto Adige,2018,palestre,15
+Trentino-Alto Adige,2019,palestre,29
+Trentino-Alto Adige,2020,palestre,41
+Trentino-Alto Adige,2021,palestre,42
+Trentino-Alto Adige,2022,palestre,49
+Trentino-Alto Adige,2023,palestre,56
+Trentino-Alto Adige,2024,palestre,64
+Trentino-Alto Adige,2025,palestre,76
+Trentino-Alto Adige,2026,palestre,89
+Trentino-Alto Adige,2010,stadi,22
+Trentino-Alto Adige,2011,stadi,36
+Trentino-Alto Adige,2012,stadi,38
+Trentino-Alto Adige,2013,stadi,44
+Trentino-Alto Adige,2014,stadi,42
+Trentino-Alto Adige,2015,stadi,42
+Trentino-Alto Adige,2016,stadi,40
+Trentino-Alto Adige,2017,stadi,38
+Trentino-Alto Adige,2018,stadi,37
+Trentino-Alto Adige,2019,stadi,39
+Trentino-Alto Adige,2020,stadi,37
+Trentino-Alto Adige,2021,stadi,31
+Trentino-Alto Adige,2022,stadi,31
+Trentino-Alto Adige,2023,stadi,32
+Trentino-Alto Adige,2024,stadi,28
+Trentino-Alto Adige,2025,stadi,29
+Trentino-Alto Adige,2026,stadi,29
+Veneto,2010,campi,138
+Veneto,2011,campi,560
+Veneto,2012,campi,1290
+Veneto,2013,campi,2974
+Veneto,2014,campi,4240
+Veneto,2015,campi,4704
+Veneto,2016,campi,5701
+Veneto,2017,campi,5893
+Veneto,2018,campi,6081
+Veneto,2019,campi,6327
+Veneto,2020,campi,6513
+Veneto,2021,campi,6730
+Veneto,2022,campi,6944
+Veneto,2023,campi,7245
+Veneto,2024,campi,7593
+Veneto,2025,campi,7982
+Veneto,2026,campi,8469
+Veneto,2010,centri_sportivi,80
+Veneto,2011,centri_sportivi,161
+Veneto,2012,centri_sportivi,560
+Veneto,2013,centri_sportivi,1229
+Veneto,2014,centri_sportivi,1633
+Veneto,2015,centri_sportivi,1734
+Veneto,2016,centri_sportivi,2065
+Veneto,2017,centri_sportivi,2092
+Veneto,2018,centri_sportivi,2154
+Veneto,2019,centri_sportivi,2205
+Veneto,2020,centri_sportivi,2252
+Veneto,2021,centri_sportivi,2319
+Veneto,2022,centri_sportivi,2325
+Veneto,2023,centri_sportivi,2346
+Veneto,2024,centri_sportivi,2368
+Veneto,2025,centri_sportivi,2479
+Veneto,2026,centri_sportivi,2503
+Veneto,2010,piste,18
+Veneto,2011,piste,31
+Veneto,2012,piste,56
+Veneto,2013,piste,75
+Veneto,2014,piste,106
+Veneto,2015,piste,124
+Veneto,2016,piste,154
+Veneto,2017,piste,165
+Veneto,2018,piste,169
+Veneto,2019,piste,180
+Veneto,2020,piste,203
+Veneto,2021,piste,231
+Veneto,2022,piste,261
+Veneto,2023,piste,275
+Veneto,2024,piste,306
+Veneto,2025,piste,315
+Veneto,2026,piste,362
+Veneto,2010,palestre,0
+Veneto,2011,palestre,0
+Veneto,2012,palestre,0
+Veneto,2013,palestre,0
+Veneto,2014,palestre,0
+Veneto,2015,palestre,1
+Veneto,2016,palestre,2
+Veneto,2017,palestre,12
+Veneto,2018,palestre,27
+Veneto,2019,palestre,39
+Veneto,2020,palestre,56
+Veneto,2021,palestre,73
+Veneto,2022,palestre,86
+Veneto,2023,palestre,100
+Veneto,2024,palestre,125
+Veneto,2025,palestre,145
+Veneto,2026,palestre,172
+Veneto,2010,stadi,44
+Veneto,2011,stadi,70
+Veneto,2012,stadi,84
+Veneto,2013,stadi,80
+Veneto,2014,stadi,75
+Veneto,2015,stadi,80
+Veneto,2016,stadi,73
+Veneto,2017,stadi,73
+Veneto,2018,stadi,75
+Veneto,2019,stadi,78
+Veneto,2020,stadi,79
+Veneto,2021,stadi,77
+Veneto,2022,stadi,77
+Veneto,2023,stadi,76
+Veneto,2024,stadi,74
+Veneto,2025,stadi,72
+Veneto,2026,stadi,70
+Friuli-Venezia Giulia,2010,campi,7
+Friuli-Venezia Giulia,2011,campi,26
+Friuli-Venezia Giulia,2012,campi,67
+Friuli-Venezia Giulia,2013,campi,202
+Friuli-Venezia Giulia,2014,campi,563
+Friuli-Venezia Giulia,2015,campi,717
+Friuli-Venezia Giulia,2016,campi,1182
+Friuli-Venezia Giulia,2017,campi,1251
+Friuli-Venezia Giulia,2018,campi,1337
+Friuli-Venezia Giulia,2019,campi,1391
+Friuli-Venezia Giulia,2020,campi,1443
+Friuli-Venezia Giulia,2021,campi,1532
+Friuli-Venezia Giulia,2022,campi,1618
+Friuli-Venezia Giulia,2023,campi,1757
+Friuli-Venezia Giulia,2024,campi,1837
+Friuli-Venezia Giulia,2025,campi,1996
+Friuli-Venezia Giulia,2026,campi,2144
+Friuli-Venezia Giulia,2010,centri_sportivi,1100
+Friuli-Venezia Giulia,2011,centri_sportivi,1104
+Friuli-Venezia Giulia,2012,centri_sportivi,1147
+Friuli-Venezia Giulia,2013,centri_sportivi,1201
+Friuli-Venezia Giulia,2014,centri_sportivi,1243
+Friuli-Venezia Giulia,2015,centri_sportivi,1246
+Friuli-Venezia Giulia,2016,centri_sportivi,1125
+Friuli-Venezia Giulia,2017,centri_sportivi,1138
+Friuli-Venezia Giulia,2018,centri_sportivi,1135
+Friuli-Venezia Giulia,2019,centri_sportivi,1129
+Friuli-Venezia Giulia,2020,centri_sportivi,1128
+Friuli-Venezia Giulia,2021,centri_sportivi,1150
+Friuli-Venezia Giulia,2022,centri_sportivi,1168
+Friuli-Venezia Giulia,2023,centri_sportivi,1160
+Friuli-Venezia Giulia,2024,centri_sportivi,1169
+Friuli-Venezia Giulia,2025,centri_sportivi,1175
+Friuli-Venezia Giulia,2026,centri_sportivi,1173
+Friuli-Venezia Giulia,2010,piste,1
+Friuli-Venezia Giulia,2011,piste,7
+Friuli-Venezia Giulia,2012,piste,14
+Friuli-Venezia Giulia,2013,piste,25
+Friuli-Venezia Giulia,2014,piste,39
+Friuli-Venezia Giulia,2015,piste,42
+Friuli-Venezia Giulia,2016,piste,50
+Friuli-Venezia Giulia,2017,piste,54
+Friuli-Venezia Giulia,2018,piste,54
+Friuli-Venezia Giulia,2019,piste,53
+Friuli-Venezia Giulia,2020,piste,64
+Friuli-Venezia Giulia,2021,piste,78
+Friuli-Venezia Giulia,2022,piste,93
+Friuli-Venezia Giulia,2023,piste,111
+Friuli-Venezia Giulia,2024,piste,116
+Friuli-Venezia Giulia,2025,piste,125
+Friuli-Venezia Giulia,2026,piste,141
+Friuli-Venezia Giulia,2010,palestre,0
+Friuli-Venezia Giulia,2011,palestre,0
+Friuli-Venezia Giulia,2012,palestre,0
+Friuli-Venezia Giulia,2013,palestre,0
+Friuli-Venezia Giulia,2014,palestre,0
+Friuli-Venezia Giulia,2015,palestre,0
+Friuli-Venezia Giulia,2016,palestre,2
+Friuli-Venezia Giulia,2017,palestre,4
+Friuli-Venezia Giulia,2018,palestre,14
+Friuli-Venezia Giulia,2019,palestre,31
+Friuli-Venezia Giulia,2020,palestre,37
+Friuli-Venezia Giulia,2021,palestre,39
+Friuli-Venezia Giulia,2022,palestre,40
+Friuli-Venezia Giulia,2023,palestre,51
+Friuli-Venezia Giulia,2024,palestre,60
+Friuli-Venezia Giulia,2025,palestre,68
+Friuli-Venezia Giulia,2026,palestre,73
+Friuli-Venezia Giulia,2010,stadi,22
+Friuli-Venezia Giulia,2011,stadi,26
+Friuli-Venezia Giulia,2012,stadi,28
+Friuli-Venezia Giulia,2013,stadi,32
+Friuli-Venezia Giulia,2014,stadi,34
+Friuli-Venezia Giulia,2015,stadi,34
+Friuli-Venezia Giulia,2016,stadi,32
+Friuli-Venezia Giulia,2017,stadi,30
+Friuli-Venezia Giulia,2018,stadi,29
+Friuli-Venezia Giulia,2019,stadi,30
+Friuli-Venezia Giulia,2020,stadi,30
+Friuli-Venezia Giulia,2021,stadi,23
+Friuli-Venezia Giulia,2022,stadi,23
+Friuli-Venezia Giulia,2023,stadi,22
+Friuli-Venezia Giulia,2024,stadi,23
+Friuli-Venezia Giulia,2025,stadi,24
+Friuli-Venezia Giulia,2026,stadi,24
+Liguria,2010,campi,84
+Liguria,2011,campi,129
+Liguria,2012,campi,376
+Liguria,2013,campi,693
+Liguria,2014,campi,1023
+Liguria,2015,campi,1261
+Liguria,2016,campi,1520
+Liguria,2017,campi,1642
+Liguria,2018,campi,1737
+Liguria,2019,campi,1800
+Liguria,2020,campi,1867
+Liguria,2021,campi,1932
+Liguria,2022,campi,1962
+Liguria,2023,campi,2018
+Liguria,2024,campi,2079
+Liguria,2025,campi,2135
+Liguria,2026,campi,2230
+Liguria,2010,centri_sportivi,10
+Liguria,2011,centri_sportivi,20
+Liguria,2012,centri_sportivi,41
+Liguria,2013,centri_sportivi,111
+Liguria,2014,centri_sportivi,222
+Liguria,2015,centri_sportivi,236
+Liguria,2016,centri_sportivi,278
+Liguria,2017,centri_sportivi,305
+Liguria,2018,centri_sportivi,316
+Liguria,2019,centri_sportivi,343
+Liguria,2020,centri_sportivi,344
+Liguria,2021,centri_sportivi,504
+Liguria,2022,centri_sportivi,523
+Liguria,2023,centri_sportivi,541
+Liguria,2024,centri_sportivi,541
+Liguria,2025,centri_sportivi,507
+Liguria,2026,centri_sportivi,504
+Liguria,2010,piste,2
+Liguria,2011,piste,5
+Liguria,2012,piste,10
+Liguria,2013,piste,22
+Liguria,2014,piste,20
+Liguria,2015,piste,27
+Liguria,2016,piste,34
+Liguria,2017,piste,37
+Liguria,2018,piste,38
+Liguria,2019,piste,40
+Liguria,2020,piste,41
+Liguria,2021,piste,42
+Liguria,2022,piste,46
+Liguria,2023,piste,44
+Liguria,2024,piste,54
+Liguria,2025,piste,60
+Liguria,2026,piste,71
+Liguria,2010,palestre,0
+Liguria,2011,palestre,0
+Liguria,2012,palestre,0
+Liguria,2013,palestre,0
+Liguria,2014,palestre,0
+Liguria,2015,palestre,1
+Liguria,2016,palestre,1
+Liguria,2017,palestre,3
+Liguria,2018,palestre,26
+Liguria,2019,palestre,33
+Liguria,2020,palestre,39
+Liguria,2021,palestre,40
+Liguria,2022,palestre,50
+Liguria,2023,palestre,55
+Liguria,2024,palestre,62
+Liguria,2025,palestre,65
+Liguria,2026,palestre,82
+Liguria,2010,stadi,5
+Liguria,2011,stadi,5
+Liguria,2012,stadi,17
+Liguria,2013,stadi,25
+Liguria,2014,stadi,44
+Liguria,2015,stadi,43
+Liguria,2016,stadi,41
+Liguria,2017,stadi,37
+Liguria,2018,stadi,37
+Liguria,2019,stadi,37
+Liguria,2020,stadi,37
+Liguria,2021,stadi,39
+Liguria,2022,stadi,39
+Liguria,2023,stadi,38
+Liguria,2024,stadi,38
+Liguria,2025,stadi,38
+Liguria,2026,stadi,29
+Emilia-Romagna,2010,campi,136
+Emilia-Romagna,2011,campi,370
+Emilia-Romagna,2012,campi,644
+Emilia-Romagna,2013,campi,1233
+Emilia-Romagna,2014,campi,2061
+Emilia-Romagna,2015,campi,2521
+Emilia-Romagna,2016,campi,2928
+Emilia-Romagna,2017,campi,3397
+Emilia-Romagna,2018,campi,3821
+Emilia-Romagna,2019,campi,4258
+Emilia-Romagna,2020,campi,4472
+Emilia-Romagna,2021,campi,4776
+Emilia-Romagna,2022,campi,4892
+Emilia-Romagna,2023,campi,5165
+Emilia-Romagna,2024,campi,5576
+Emilia-Romagna,2025,campi,5960
+Emilia-Romagna,2026,campi,6319
+Emilia-Romagna,2010,centri_sportivi,129
+Emilia-Romagna,2011,centri_sportivi,182
+Emilia-Romagna,2012,centri_sportivi,273
+Emilia-Romagna,2013,centri_sportivi,433
+Emilia-Romagna,2014,centri_sportivi,711
+Emilia-Romagna,2015,centri_sportivi,1026
+Emilia-Romagna,2016,centri_sportivi,1106
+Emilia-Romagna,2017,centri_sportivi,1167
+Emilia-Romagna,2018,centri_sportivi,1233
+Emilia-Romagna,2019,centri_sportivi,1313
+Emilia-Romagna,2020,centri_sportivi,1314
+Emilia-Romagna,2021,centri_sportivi,1343
+Emilia-Romagna,2022,centri_sportivi,1356
+Emilia-Romagna,2023,centri_sportivi,1352
+Emilia-Romagna,2024,centri_sportivi,1367
+Emilia-Romagna,2025,centri_sportivi,1381
+Emilia-Romagna,2026,centri_sportivi,1413
+Emilia-Romagna,2010,piste,14
+Emilia-Romagna,2011,piste,37
+Emilia-Romagna,2012,piste,60
+Emilia-Romagna,2013,piste,82
+Emilia-Romagna,2014,piste,103
+Emilia-Romagna,2015,piste,124
+Emilia-Romagna,2016,piste,141
+Emilia-Romagna,2017,piste,151
+Emilia-Romagna,2018,piste,169
+Emilia-Romagna,2019,piste,178
+Emilia-Romagna,2020,piste,194
+Emilia-Romagna,2021,piste,211
+Emilia-Romagna,2022,piste,226
+Emilia-Romagna,2023,piste,239
+Emilia-Romagna,2024,piste,265
+Emilia-Romagna,2025,piste,293
+Emilia-Romagna,2026,piste,314
+Emilia-Romagna,2010,palestre,0
+Emilia-Romagna,2011,palestre,0
+Emilia-Romagna,2012,palestre,0
+Emilia-Romagna,2013,palestre,0
+Emilia-Romagna,2014,palestre,0
+Emilia-Romagna,2015,palestre,0
+Emilia-Romagna,2016,palestre,1
+Emilia-Romagna,2017,palestre,8
+Emilia-Romagna,2018,palestre,42
+Emilia-Romagna,2019,palestre,65
+Emilia-Romagna,2020,palestre,84
+Emilia-Romagna,2021,palestre,104
+Emilia-Romagna,2022,palestre,124
+Emilia-Romagna,2023,palestre,136
+Emilia-Romagna,2024,palestre,156
+Emilia-Romagna,2025,palestre,202
+Emilia-Romagna,2026,palestre,243
+Emilia-Romagna,2010,stadi,23
+Emilia-Romagna,2011,stadi,49
+Emilia-Romagna,2012,stadi,64
+Emilia-Romagna,2013,stadi,116
+Emilia-Romagna,2014,stadi,116
+Emilia-Romagna,2015,stadi,116
+Emilia-Romagna,2016,stadi,118
+Emilia-Romagna,2017,stadi,117
+Emilia-Romagna,2018,stadi,118
+Emilia-Romagna,2019,stadi,120
+Emilia-Romagna,2020,stadi,119
+Emilia-Romagna,2021,stadi,113
+Emilia-Romagna,2022,stadi,112
+Emilia-Romagna,2023,stadi,110
+Emilia-Romagna,2024,stadi,107
+Emilia-Romagna,2025,stadi,108
+Emilia-Romagna,2026,stadi,105
+Toscana,2010,campi,138
+Toscana,2011,campi,330
+Toscana,2012,campi,657
+Toscana,2013,campi,1520
+Toscana,2014,campi,2164
+Toscana,2015,campi,2686
+Toscana,2016,campi,3118
+Toscana,2017,campi,3536
+Toscana,2018,campi,4147
+Toscana,2019,campi,4478
+Toscana,2020,campi,4854
+Toscana,2021,campi,5038
+Toscana,2022,campi,5253
+Toscana,2023,campi,5445
+Toscana,2024,campi,5804
+Toscana,2025,campi,6181
+Toscana,2026,campi,6467
+Toscana,2010,centri_sportivi,36
+Toscana,2011,centri_sportivi,81
+Toscana,2012,centri_sportivi,150
+Toscana,2013,centri_sportivi,264
+Toscana,2014,centri_sportivi,319
+Toscana,2015,centri_sportivi,402
+Toscana,2016,centri_sportivi,464
+Toscana,2017,centri_sportivi,501
+Toscana,2018,centri_sportivi,542
+Toscana,2019,centri_sportivi,584
+Toscana,2020,centri_sportivi,614
+Toscana,2021,centri_sportivi,663
+Toscana,2022,centri_sportivi,709
+Toscana,2023,centri_sportivi,748
+Toscana,2024,centri_sportivi,780
+Toscana,2025,centri_sportivi,845
+Toscana,2026,centri_sportivi,914
+Toscana,2010,piste,3
+Toscana,2011,piste,12
+Toscana,2012,piste,37
+Toscana,2013,piste,65
+Toscana,2014,piste,84
+Toscana,2015,piste,90
+Toscana,2016,piste,107
+Toscana,2017,piste,121
+Toscana,2018,piste,130
+Toscana,2019,piste,147
+Toscana,2020,piste,150
+Toscana,2021,piste,161
+Toscana,2022,piste,179
+Toscana,2023,piste,200
+Toscana,2024,piste,230
+Toscana,2025,piste,245
+Toscana,2026,piste,269
+Toscana,2010,palestre,0
+Toscana,2011,palestre,0
+Toscana,2012,palestre,0
+Toscana,2013,palestre,0
+Toscana,2014,palestre,0
+Toscana,2015,palestre,0
+Toscana,2016,palestre,6
+Toscana,2017,palestre,12
+Toscana,2018,palestre,33
+Toscana,2019,palestre,46
+Toscana,2020,palestre,70
+Toscana,2021,palestre,101
+Toscana,2022,palestre,117
+Toscana,2023,palestre,122
+Toscana,2024,palestre,141
+Toscana,2025,palestre,166
+Toscana,2026,palestre,191
+Toscana,2010,stadi,49
+Toscana,2011,stadi,78
+Toscana,2012,stadi,89
+Toscana,2013,stadi,102
+Toscana,2014,stadi,98
+Toscana,2015,stadi,87
+Toscana,2016,stadi,85
+Toscana,2017,stadi,80
+Toscana,2018,stadi,78
+Toscana,2019,stadi,75
+Toscana,2020,stadi,72
+Toscana,2021,stadi,72
+Toscana,2022,stadi,70
+Toscana,2023,stadi,66
+Toscana,2024,stadi,66
+Toscana,2025,stadi,75
+Toscana,2026,stadi,76
+Umbria,2010,campi,8
+Umbria,2011,campi,101
+Umbria,2012,campi,201
+Umbria,2013,campi,301
+Umbria,2014,campi,557
+Umbria,2015,campi,707
+Umbria,2016,campi,832
+Umbria,2017,campi,1006
+Umbria,2018,campi,1123
+Umbria,2019,campi,1218
+Umbria,2020,campi,1258
+Umbria,2021,campi,1285
+Umbria,2022,campi,1306
+Umbria,2023,campi,1363
+Umbria,2024,campi,1486
+Umbria,2025,campi,1585
+Umbria,2026,campi,1659
+Umbria,2010,centri_sportivi,5
+Umbria,2011,centri_sportivi,22
+Umbria,2012,centri_sportivi,40
+Umbria,2013,centri_sportivi,48
+Umbria,2014,centri_sportivi,64
+Umbria,2015,centri_sportivi,75
+Umbria,2016,centri_sportivi,89
+Umbria,2017,centri_sportivi,113
+Umbria,2018,centri_sportivi,141
+Umbria,2019,centri_sportivi,154
+Umbria,2020,centri_sportivi,157
+Umbria,2021,centri_sportivi,161
+Umbria,2022,centri_sportivi,164
+Umbria,2023,centri_sportivi,174
+Umbria,2024,centri_sportivi,190
+Umbria,2025,centri_sportivi,201
+Umbria,2026,centri_sportivi,205
+Umbria,2010,piste,3
+Umbria,2011,piste,13
+Umbria,2012,piste,21
+Umbria,2013,piste,27
+Umbria,2014,piste,30
+Umbria,2015,piste,32
+Umbria,2016,piste,36
+Umbria,2017,piste,37
+Umbria,2018,piste,44
+Umbria,2019,piste,44
+Umbria,2020,piste,47
+Umbria,2021,piste,48
+Umbria,2022,piste,49
+Umbria,2023,piste,51
+Umbria,2024,piste,58
+Umbria,2025,piste,57
+Umbria,2026,piste,61
+Umbria,2010,palestre,0
+Umbria,2011,palestre,0
+Umbria,2012,palestre,0
+Umbria,2013,palestre,0
+Umbria,2014,palestre,0
+Umbria,2015,palestre,0
+Umbria,2016,palestre,0
+Umbria,2017,palestre,4
+Umbria,2018,palestre,7
+Umbria,2019,palestre,11
+Umbria,2020,palestre,17
+Umbria,2021,palestre,21
+Umbria,2022,palestre,21
+Umbria,2023,palestre,22
+Umbria,2024,palestre,24
+Umbria,2025,palestre,28
+Umbria,2026,palestre,29
+Umbria,2010,stadi,2
+Umbria,2011,stadi,12
+Umbria,2012,stadi,21
+Umbria,2013,stadi,26
+Umbria,2014,stadi,23
+Umbria,2015,stadi,24
+Umbria,2016,stadi,23
+Umbria,2017,stadi,28
+Umbria,2018,stadi,36
+Umbria,2019,stadi,33
+Umbria,2020,stadi,33
+Umbria,2021,stadi,33
+Umbria,2022,stadi,33
+Umbria,2023,stadi,32
+Umbria,2024,stadi,29
+Umbria,2025,stadi,27
+Umbria,2026,stadi,27
+Marche,2010,campi,45
+Marche,2011,campi,95
+Marche,2012,campi,229
+Marche,2013,campi,377
+Marche,2014,campi,576
+Marche,2015,campi,748
+Marche,2016,campi,892
+Marche,2017,campi,1191
+Marche,2018,campi,1368
+Marche,2019,campi,1734
+Marche,2020,campi,1883
+Marche,2021,campi,1964
+Marche,2022,campi,2069
+Marche,2023,campi,2296
+Marche,2024,campi,2445
+Marche,2025,campi,2590
+Marche,2026,campi,2777
+Marche,2010,centri_sportivi,8
+Marche,2011,centri_sportivi,30
+Marche,2012,centri_sportivi,67
+Marche,2013,centri_sportivi,94
+Marche,2014,centri_sportivi,118
+Marche,2015,centri_sportivi,165
+Marche,2016,centri_sportivi,190
+Marche,2017,centri_sportivi,220
+Marche,2018,centri_sportivi,243
+Marche,2019,centri_sportivi,258
+Marche,2020,centri_sportivi,280
+Marche,2021,centri_sportivi,301
+Marche,2022,centri_sportivi,310
+Marche,2023,centri_sportivi,324
+Marche,2024,centri_sportivi,338
+Marche,2025,centri_sportivi,356
+Marche,2026,centri_sportivi,385
+Marche,2010,piste,4
+Marche,2011,piste,10
+Marche,2012,piste,31
+Marche,2013,piste,40
+Marche,2014,piste,46
+Marche,2015,piste,63
+Marche,2016,piste,68
+Marche,2017,piste,68
+Marche,2018,piste,70
+Marche,2019,piste,109
+Marche,2020,piste,135
+Marche,2021,piste,141
+Marche,2022,piste,141
+Marche,2023,piste,151
+Marche,2024,piste,166
+Marche,2025,piste,172
+Marche,2026,piste,169
+Marche,2010,palestre,0
+Marche,2011,palestre,0
+Marche,2012,palestre,0
+Marche,2013,palestre,0
+Marche,2014,palestre,0
+Marche,2015,palestre,0
+Marche,2016,palestre,0
+Marche,2017,palestre,3
+Marche,2018,palestre,14
+Marche,2019,palestre,35
+Marche,2020,palestre,40
+Marche,2021,palestre,41
+Marche,2022,palestre,46
+Marche,2023,palestre,48
+Marche,2024,palestre,60
+Marche,2025,palestre,68
+Marche,2026,palestre,79
+Marche,2010,stadi,16
+Marche,2011,stadi,22
+Marche,2012,stadi,31
+Marche,2013,stadi,37
+Marche,2014,stadi,44
+Marche,2015,stadi,52
+Marche,2016,stadi,55
+Marche,2017,stadi,56
+Marche,2018,stadi,56
+Marche,2019,stadi,57
+Marche,2020,stadi,60
+Marche,2021,stadi,63
+Marche,2022,stadi,66
+Marche,2023,stadi,67
+Marche,2024,stadi,69
+Marche,2025,stadi,70
+Marche,2026,stadi,68
+Lazio,2010,campi,229
+Lazio,2011,campi,472
+Lazio,2012,campi,789
+Lazio,2013,campi,1251
+Lazio,2014,campi,1919
+Lazio,2015,campi,2352
+Lazio,2016,campi,3004
+Lazio,2017,campi,3866
+Lazio,2018,campi,4737
+Lazio,2019,campi,5399
+Lazio,2020,campi,5798
+Lazio,2021,campi,6325
+Lazio,2022,campi,6740
+Lazio,2023,campi,7073
+Lazio,2024,campi,7476
+Lazio,2025,campi,7963
+Lazio,2026,campi,8330
+Lazio,2010,centri_sportivi,46
+Lazio,2011,centri_sportivi,64
+Lazio,2012,centri_sportivi,132
+Lazio,2013,centri_sportivi,252
+Lazio,2014,centri_sportivi,333
+Lazio,2015,centri_sportivi,398
+Lazio,2016,centri_sportivi,454
+Lazio,2017,centri_sportivi,543
+Lazio,2018,centri_sportivi,598
+Lazio,2019,centri_sportivi,665
+Lazio,2020,centri_sportivi,691
+Lazio,2021,centri_sportivi,729
+Lazio,2022,centri_sportivi,770
+Lazio,2023,centri_sportivi,800
+Lazio,2024,centri_sportivi,833
+Lazio,2025,centri_sportivi,868
+Lazio,2026,centri_sportivi,914
+Lazio,2010,piste,3
+Lazio,2011,piste,18
+Lazio,2012,piste,44
+Lazio,2013,piste,48
+Lazio,2014,piste,59
+Lazio,2015,piste,62
+Lazio,2016,piste,71
+Lazio,2017,piste,87
+Lazio,2018,piste,105
+Lazio,2019,piste,115
+Lazio,2020,piste,126
+Lazio,2021,piste,137
+Lazio,2022,piste,171
+Lazio,2023,piste,190
+Lazio,2024,piste,188
+Lazio,2025,piste,205
+Lazio,2026,piste,215
+Lazio,2010,palestre,0
+Lazio,2011,palestre,0
+Lazio,2012,palestre,0
+Lazio,2013,palestre,0
+Lazio,2014,palestre,0
+Lazio,2015,palestre,0
+Lazio,2016,palestre,1
+Lazio,2017,palestre,7
+Lazio,2018,palestre,56
+Lazio,2019,palestre,78
+Lazio,2020,palestre,104
+Lazio,2021,palestre,125
+Lazio,2022,palestre,142
+Lazio,2023,palestre,161
+Lazio,2024,palestre,173
+Lazio,2025,palestre,194
+Lazio,2026,palestre,213
+Lazio,2010,stadi,38
+Lazio,2011,stadi,63
+Lazio,2012,stadi,74
+Lazio,2013,stadi,93
+Lazio,2014,stadi,108
+Lazio,2015,stadi,106
+Lazio,2016,stadi,108
+Lazio,2017,stadi,109
+Lazio,2018,stadi,110
+Lazio,2019,stadi,104
+Lazio,2020,stadi,101
+Lazio,2021,stadi,103
+Lazio,2022,stadi,105
+Lazio,2023,stadi,103
+Lazio,2024,stadi,102
+Lazio,2025,stadi,97
+Lazio,2026,stadi,96
+Abruzzo,2010,campi,25
+Abruzzo,2011,campi,111
+Abruzzo,2012,campi,214
+Abruzzo,2013,campi,341
+Abruzzo,2014,campi,502
+Abruzzo,2015,campi,600
+Abruzzo,2016,campi,773
+Abruzzo,2017,campi,912
+Abruzzo,2018,campi,1031
+Abruzzo,2019,campi,1413
+Abruzzo,2020,campi,1502
+Abruzzo,2021,campi,1587
+Abruzzo,2022,campi,1748
+Abruzzo,2023,campi,1945
+Abruzzo,2024,campi,2135
+Abruzzo,2025,campi,2376
+Abruzzo,2026,campi,2636
+Abruzzo,2010,centri_sportivi,34
+Abruzzo,2011,centri_sportivi,43
+Abruzzo,2012,centri_sportivi,55
+Abruzzo,2013,centri_sportivi,83
+Abruzzo,2014,centri_sportivi,105
+Abruzzo,2015,centri_sportivi,121
+Abruzzo,2016,centri_sportivi,137
+Abruzzo,2017,centri_sportivi,145
+Abruzzo,2018,centri_sportivi,159
+Abruzzo,2019,centri_sportivi,175
+Abruzzo,2020,centri_sportivi,187
+Abruzzo,2021,centri_sportivi,213
+Abruzzo,2022,centri_sportivi,246
+Abruzzo,2023,centri_sportivi,291
+Abruzzo,2024,centri_sportivi,347
+Abruzzo,2025,centri_sportivi,410
+Abruzzo,2026,centri_sportivi,459
+Abruzzo,2010,piste,1
+Abruzzo,2011,piste,11
+Abruzzo,2012,piste,17
+Abruzzo,2013,piste,17
+Abruzzo,2014,piste,20
+Abruzzo,2015,piste,21
+Abruzzo,2016,piste,22
+Abruzzo,2017,piste,20
+Abruzzo,2018,piste,21
+Abruzzo,2019,piste,29
+Abruzzo,2020,piste,35
+Abruzzo,2021,piste,39
+Abruzzo,2022,piste,43
+Abruzzo,2023,piste,88
+Abruzzo,2024,piste,137
+Abruzzo,2025,piste,185
+Abruzzo,2026,piste,199
+Abruzzo,2010,palestre,0
+Abruzzo,2011,palestre,0
+Abruzzo,2012,palestre,0
+Abruzzo,2013,palestre,0
+Abruzzo,2014,palestre,0
+Abruzzo,2015,palestre,0
+Abruzzo,2016,palestre,1
+Abruzzo,2017,palestre,1
+Abruzzo,2018,palestre,14
+Abruzzo,2019,palestre,17
+Abruzzo,2020,palestre,30
+Abruzzo,2021,palestre,53
+Abruzzo,2022,palestre,62
+Abruzzo,2023,palestre,63
+Abruzzo,2024,palestre,68
+Abruzzo,2025,palestre,76
+Abruzzo,2026,palestre,83
+Abruzzo,2010,stadi,16
+Abruzzo,2011,stadi,20
+Abruzzo,2012,stadi,31
+Abruzzo,2013,stadi,36
+Abruzzo,2014,stadi,36
+Abruzzo,2015,stadi,35
+Abruzzo,2016,stadi,37
+Abruzzo,2017,stadi,36
+Abruzzo,2018,stadi,42
+Abruzzo,2019,stadi,43
+Abruzzo,2020,stadi,40
+Abruzzo,2021,stadi,38
+Abruzzo,2022,stadi,40
+Abruzzo,2023,stadi,39
+Abruzzo,2024,stadi,40
+Abruzzo,2025,stadi,41
+Abruzzo,2026,stadi,39
+Molise,2010,campi,0
+Molise,2011,campi,29
+Molise,2012,campi,49
+Molise,2013,campi,95
+Molise,2014,campi,162
+Molise,2015,campi,269
+Molise,2016,campi,332
+Molise,2017,campi,388
+Molise,2018,campi,408
+Molise,2019,campi,423
+Molise,2020,campi,433
+Molise,2021,campi,441
+Molise,2022,campi,446
+Molise,2023,campi,464
+Molise,2024,campi,491
+Molise,2025,campi,496
+Molise,2026,campi,534
+Molise,2010,centri_sportivi,0
+Molise,2011,centri_sportivi,6
+Molise,2012,centri_sportivi,9
+Molise,2013,centri_sportivi,13
+Molise,2014,centri_sportivi,16
+Molise,2015,centri_sportivi,32
+Molise,2016,centri_sportivi,38
+Molise,2017,centri_sportivi,43
+Molise,2018,centri_sportivi,44
+Molise,2019,centri_sportivi,48
+Molise,2020,centri_sportivi,49
+Molise,2021,centri_sportivi,49
+Molise,2022,centri_sportivi,50
+Molise,2023,centri_sportivi,52
+Molise,2024,centri_sportivi,52
+Molise,2025,centri_sportivi,55
+Molise,2026,centri_sportivi,59
+Molise,2010,piste,0
+Molise,2011,piste,2
+Molise,2012,piste,3
+Molise,2013,piste,3
+Molise,2014,piste,6
+Molise,2015,piste,10
+Molise,2016,piste,19
+Molise,2017,piste,19
+Molise,2018,piste,18
+Molise,2019,piste,18
+Molise,2020,piste,18
+Molise,2021,piste,18
+Molise,2022,piste,18
+Molise,2023,piste,18
+Molise,2024,piste,18
+Molise,2025,piste,18
+Molise,2026,piste,24
+Molise,2010,palestre,0
+Molise,2011,palestre,0
+Molise,2012,palestre,0
+Molise,2013,palestre,0
+Molise,2014,palestre,0
+Molise,2015,palestre,0
+Molise,2016,palestre,0
+Molise,2017,palestre,0
+Molise,2018,palestre,0
+Molise,2019,palestre,1
+Molise,2020,palestre,3
+Molise,2021,palestre,3
+Molise,2022,palestre,3
+Molise,2023,palestre,4
+Molise,2024,palestre,5
+Molise,2025,palestre,6
+Molise,2026,palestre,7
+Molise,2010,stadi,0
+Molise,2011,stadi,5
+Molise,2012,stadi,7
+Molise,2013,stadi,10
+Molise,2014,stadi,10
+Molise,2015,stadi,11
+Molise,2016,stadi,11
+Molise,2017,stadi,11
+Molise,2018,stadi,12
+Molise,2019,stadi,11
+Molise,2020,stadi,12
+Molise,2021,stadi,12
+Molise,2022,stadi,13
+Molise,2023,stadi,13
+Molise,2024,stadi,11
+Molise,2025,stadi,13
+Molise,2026,stadi,13
+Campania,2010,campi,22
+Campania,2011,campi,47
+Campania,2012,campi,91
+Campania,2013,campi,280
+Campania,2014,campi,720
+Campania,2015,campi,988
+Campania,2016,campi,1190
+Campania,2017,campi,1573
+Campania,2018,campi,1741
+Campania,2019,campi,2065
+Campania,2020,campi,2797
+Campania,2021,campi,2993
+Campania,2022,campi,3268
+Campania,2023,campi,3521
+Campania,2024,campi,3701
+Campania,2025,campi,3946
+Campania,2026,campi,4371
+Campania,2010,centri_sportivi,6
+Campania,2011,centri_sportivi,9
+Campania,2012,centri_sportivi,86
+Campania,2013,centri_sportivi,171
+Campania,2014,centri_sportivi,250
+Campania,2015,centri_sportivi,296
+Campania,2016,centri_sportivi,322
+Campania,2017,centri_sportivi,362
+Campania,2018,centri_sportivi,378
+Campania,2019,centri_sportivi,430
+Campania,2020,centri_sportivi,463
+Campania,2021,centri_sportivi,498
+Campania,2022,centri_sportivi,524
+Campania,2023,centri_sportivi,543
+Campania,2024,centri_sportivi,558
+Campania,2025,centri_sportivi,575
+Campania,2026,centri_sportivi,584
+Campania,2010,piste,0
+Campania,2011,piste,6
+Campania,2012,piste,41
+Campania,2013,piste,146
+Campania,2014,piste,179
+Campania,2015,piste,207
+Campania,2016,piste,205
+Campania,2017,piste,213
+Campania,2018,piste,214
+Campania,2019,piste,208
+Campania,2020,piste,85
+Campania,2021,piste,89
+Campania,2022,piste,101
+Campania,2023,piste,121
+Campania,2024,piste,125
+Campania,2025,piste,133
+Campania,2026,piste,147
+Campania,2010,palestre,0
+Campania,2011,palestre,0
+Campania,2012,palestre,0
+Campania,2013,palestre,0
+Campania,2014,palestre,0
+Campania,2015,palestre,0
+Campania,2016,palestre,0
+Campania,2017,palestre,0
+Campania,2018,palestre,12
+Campania,2019,palestre,25
+Campania,2020,palestre,34
+Campania,2021,palestre,43
+Campania,2022,palestre,68
+Campania,2023,palestre,82
+Campania,2024,palestre,104
+Campania,2025,palestre,116
+Campania,2026,palestre,133
+Campania,2010,stadi,18
+Campania,2011,stadi,32
+Campania,2012,stadi,75
+Campania,2013,stadi,78
+Campania,2014,stadi,111
+Campania,2015,stadi,110
+Campania,2016,stadi,112
+Campania,2017,stadi,115
+Campania,2018,stadi,114
+Campania,2019,stadi,114
+Campania,2020,stadi,119
+Campania,2021,stadi,118
+Campania,2022,stadi,118
+Campania,2023,stadi,127
+Campania,2024,stadi,126
+Campania,2025,stadi,123
+Campania,2026,stadi,122
+Puglia,2010,campi,34
+Puglia,2011,campi,54
+Puglia,2012,campi,157
+Puglia,2013,campi,367
+Puglia,2014,campi,794
+Puglia,2015,campi,1203
+Puglia,2016,campi,1516
+Puglia,2017,campi,2021
+Puglia,2018,campi,2323
+Puglia,2019,campi,2648
+Puglia,2020,campi,2841
+Puglia,2021,campi,2984
+Puglia,2022,campi,3156
+Puglia,2023,campi,3375
+Puglia,2024,campi,3754
+Puglia,2025,campi,3852
+Puglia,2026,campi,3979
+Puglia,2010,centri_sportivi,32
+Puglia,2011,centri_sportivi,57
+Puglia,2012,centri_sportivi,113
+Puglia,2013,centri_sportivi,158
+Puglia,2014,centri_sportivi,216
+Puglia,2015,centri_sportivi,254
+Puglia,2016,centri_sportivi,319
+Puglia,2017,centri_sportivi,398
+Puglia,2018,centri_sportivi,418
+Puglia,2019,centri_sportivi,449
+Puglia,2020,centri_sportivi,465
+Puglia,2021,centri_sportivi,485
+Puglia,2022,centri_sportivi,498
+Puglia,2023,centri_sportivi,512
+Puglia,2024,centri_sportivi,545
+Puglia,2025,centri_sportivi,550
+Puglia,2026,centri_sportivi,571
+Puglia,2010,piste,3
+Puglia,2011,piste,6
+Puglia,2012,piste,16
+Puglia,2013,piste,23
+Puglia,2014,piste,32
+Puglia,2015,piste,54
+Puglia,2016,piste,60
+Puglia,2017,piste,66
+Puglia,2018,piste,74
+Puglia,2019,piste,73
+Puglia,2020,piste,81
+Puglia,2021,piste,92
+Puglia,2022,piste,96
+Puglia,2023,piste,100
+Puglia,2024,piste,127
+Puglia,2025,piste,132
+Puglia,2026,piste,141
+Puglia,2010,palestre,0
+Puglia,2011,palestre,0
+Puglia,2012,palestre,0
+Puglia,2013,palestre,0
+Puglia,2014,palestre,0
+Puglia,2015,palestre,0
+Puglia,2016,palestre,1
+Puglia,2017,palestre,4
+Puglia,2018,palestre,11
+Puglia,2019,palestre,22
+Puglia,2020,palestre,33
+Puglia,2021,palestre,35
+Puglia,2022,palestre,39
+Puglia,2023,palestre,45
+Puglia,2024,palestre,53
+Puglia,2025,palestre,64
+Puglia,2026,palestre,99
+Puglia,2010,stadi,22
+Puglia,2011,stadi,29
+Puglia,2012,stadi,38
+Puglia,2013,stadi,54
+Puglia,2014,stadi,67
+Puglia,2015,stadi,73
+Puglia,2016,stadi,76
+Puglia,2017,stadi,80
+Puglia,2018,stadi,88
+Puglia,2019,stadi,88
+Puglia,2020,stadi,87
+Puglia,2021,stadi,88
+Puglia,2022,stadi,88
+Puglia,2023,stadi,89
+Puglia,2024,stadi,92
+Puglia,2025,stadi,94
+Puglia,2026,stadi,92
+Basilicata,2010,campi,1
+Basilicata,2011,campi,6
+Basilicata,2012,campi,25
+Basilicata,2013,campi,106
+Basilicata,2014,campi,193
+Basilicata,2015,campi,270
+Basilicata,2016,campi,324
+Basilicata,2017,campi,377
+Basilicata,2018,campi,511
+Basilicata,2019,campi,537
+Basilicata,2020,campi,548
+Basilicata,2021,campi,599
+Basilicata,2022,campi,644
+Basilicata,2023,campi,699
+Basilicata,2024,campi,725
+Basilicata,2025,campi,737
+Basilicata,2026,campi,756
+Basilicata,2010,centri_sportivi,0
+Basilicata,2011,centri_sportivi,4
+Basilicata,2012,centri_sportivi,7
+Basilicata,2013,centri_sportivi,19
+Basilicata,2014,centri_sportivi,38
+Basilicata,2015,centri_sportivi,54
+Basilicata,2016,centri_sportivi,70
+Basilicata,2017,centri_sportivi,78
+Basilicata,2018,centri_sportivi,81
+Basilicata,2019,centri_sportivi,92
+Basilicata,2020,centri_sportivi,99
+Basilicata,2021,centri_sportivi,102
+Basilicata,2022,centri_sportivi,100
+Basilicata,2023,centri_sportivi,125
+Basilicata,2024,centri_sportivi,126
+Basilicata,2025,centri_sportivi,126
+Basilicata,2026,centri_sportivi,127
+Basilicata,2010,piste,0
+Basilicata,2011,piste,0
+Basilicata,2012,piste,2
+Basilicata,2013,piste,8
+Basilicata,2014,piste,19
+Basilicata,2015,piste,21
+Basilicata,2016,piste,26
+Basilicata,2017,piste,26
+Basilicata,2018,piste,26
+Basilicata,2019,piste,28
+Basilicata,2020,piste,25
+Basilicata,2021,piste,25
+Basilicata,2022,piste,27
+Basilicata,2023,piste,29
+Basilicata,2024,piste,28
+Basilicata,2025,piste,29
+Basilicata,2026,piste,24
+Basilicata,2010,palestre,0
+Basilicata,2011,palestre,0
+Basilicata,2012,palestre,0
+Basilicata,2013,palestre,0
+Basilicata,2014,palestre,0
+Basilicata,2015,palestre,0
+Basilicata,2016,palestre,0
+Basilicata,2017,palestre,0
+Basilicata,2018,palestre,1
+Basilicata,2019,palestre,4
+Basilicata,2020,palestre,3
+Basilicata,2021,palestre,4
+Basilicata,2022,palestre,7
+Basilicata,2023,palestre,14
+Basilicata,2024,palestre,14
+Basilicata,2025,palestre,13
+Basilicata,2026,palestre,13
+Basilicata,2010,stadi,0
+Basilicata,2011,stadi,1
+Basilicata,2012,stadi,6
+Basilicata,2013,stadi,10
+Basilicata,2014,stadi,10
+Basilicata,2015,stadi,12
+Basilicata,2016,stadi,17
+Basilicata,2017,stadi,18
+Basilicata,2018,stadi,18
+Basilicata,2019,stadi,19
+Basilicata,2020,stadi,18
+Basilicata,2021,stadi,18
+Basilicata,2022,stadi,18
+Basilicata,2023,stadi,21
+Basilicata,2024,stadi,21
+Basilicata,2025,stadi,22
+Basilicata,2026,stadi,23
+Calabria,2010,campi,5
+Calabria,2011,campi,11
+Calabria,2012,campi,101
+Calabria,2013,campi,439
+Calabria,2014,campi,684
+Calabria,2015,campi,1022
+Calabria,2016,campi,1182
+Calabria,2017,campi,1381
+Calabria,2018,campi,1447
+Calabria,2019,campi,1678
+Calabria,2020,campi,1771
+Calabria,2021,campi,1857
+Calabria,2022,campi,1898
+Calabria,2023,campi,2058
+Calabria,2024,campi,2333
+Calabria,2025,campi,2690
+Calabria,2026,campi,2859
+Calabria,2010,centri_sportivi,5
+Calabria,2011,centri_sportivi,7
+Calabria,2012,centri_sportivi,25
+Calabria,2013,centri_sportivi,39
+Calabria,2014,centri_sportivi,60
+Calabria,2015,centri_sportivi,106
+Calabria,2016,centri_sportivi,120
+Calabria,2017,centri_sportivi,166
+Calabria,2018,centri_sportivi,171
+Calabria,2019,centri_sportivi,189
+Calabria,2020,centri_sportivi,191
+Calabria,2021,centri_sportivi,201
+Calabria,2022,centri_sportivi,204
+Calabria,2023,centri_sportivi,207
+Calabria,2024,centri_sportivi,237
+Calabria,2025,centri_sportivi,260
+Calabria,2026,centri_sportivi,281
+Calabria,2010,piste,0
+Calabria,2011,piste,1
+Calabria,2012,piste,6
+Calabria,2013,piste,13
+Calabria,2014,piste,21
+Calabria,2015,piste,25
+Calabria,2016,piste,25
+Calabria,2017,piste,27
+Calabria,2018,piste,26
+Calabria,2019,piste,28
+Calabria,2020,piste,30
+Calabria,2021,piste,31
+Calabria,2022,piste,32
+Calabria,2023,piste,31
+Calabria,2024,piste,40
+Calabria,2025,piste,53
+Calabria,2026,piste,61
+Calabria,2010,palestre,0
+Calabria,2011,palestre,0
+Calabria,2012,palestre,0
+Calabria,2013,palestre,0
+Calabria,2014,palestre,0
+Calabria,2015,palestre,0
+Calabria,2016,palestre,0
+Calabria,2017,palestre,1
+Calabria,2018,palestre,2
+Calabria,2019,palestre,13
+Calabria,2020,palestre,22
+Calabria,2021,palestre,34
+Calabria,2022,palestre,37
+Calabria,2023,palestre,41
+Calabria,2024,palestre,44
+Calabria,2025,palestre,57
+Calabria,2026,palestre,58
+Calabria,2010,stadi,0
+Calabria,2011,stadi,1
+Calabria,2012,stadi,10
+Calabria,2013,stadi,30
+Calabria,2014,stadi,38
+Calabria,2015,stadi,41
+Calabria,2016,stadi,44
+Calabria,2017,stadi,44
+Calabria,2018,stadi,41
+Calabria,2019,stadi,45
+Calabria,2020,stadi,46
+Calabria,2021,stadi,43
+Calabria,2022,stadi,43
+Calabria,2023,stadi,42
+Calabria,2024,stadi,41
+Calabria,2025,stadi,41
+Calabria,2026,stadi,39
+Sicilia,2010,campi,63
+Sicilia,2011,campi,239
+Sicilia,2012,campi,511
+Sicilia,2013,campi,922
+Sicilia,2014,campi,1716
+Sicilia,2015,campi,2172
+Sicilia,2016,campi,2464
+Sicilia,2017,campi,2788
+Sicilia,2018,campi,3038
+Sicilia,2019,campi,3317
+Sicilia,2020,campi,3521
+Sicilia,2021,campi,3645
+Sicilia,2022,campi,3869
+Sicilia,2023,campi,4129
+Sicilia,2024,campi,4390
+Sicilia,2025,campi,4653
+Sicilia,2026,campi,4832
+Sicilia,2010,centri_sportivi,29
+Sicilia,2011,centri_sportivi,56
+Sicilia,2012,centri_sportivi,77
+Sicilia,2013,centri_sportivi,153
+Sicilia,2014,centri_sportivi,209
+Sicilia,2015,centri_sportivi,252
+Sicilia,2016,centri_sportivi,275
+Sicilia,2017,centri_sportivi,308
+Sicilia,2018,centri_sportivi,337
+Sicilia,2019,centri_sportivi,353
+Sicilia,2020,centri_sportivi,380
+Sicilia,2021,centri_sportivi,405
+Sicilia,2022,centri_sportivi,441
+Sicilia,2023,centri_sportivi,496
+Sicilia,2024,centri_sportivi,571
+Sicilia,2025,centri_sportivi,618
+Sicilia,2026,centri_sportivi,660
+Sicilia,2010,piste,4
+Sicilia,2011,piste,28
+Sicilia,2012,piste,37
+Sicilia,2013,piste,45
+Sicilia,2014,piste,60
+Sicilia,2015,piste,70
+Sicilia,2016,piste,77
+Sicilia,2017,piste,75
+Sicilia,2018,piste,77
+Sicilia,2019,piste,89
+Sicilia,2020,piste,93
+Sicilia,2021,piste,97
+Sicilia,2022,piste,109
+Sicilia,2023,piste,117
+Sicilia,2024,piste,126
+Sicilia,2025,piste,131
+Sicilia,2026,piste,134
+Sicilia,2010,palestre,0
+Sicilia,2011,palestre,0
+Sicilia,2012,palestre,0
+Sicilia,2013,palestre,1
+Sicilia,2014,palestre,1
+Sicilia,2015,palestre,1
+Sicilia,2016,palestre,8
+Sicilia,2017,palestre,16
+Sicilia,2018,palestre,30
+Sicilia,2019,palestre,43
+Sicilia,2020,palestre,88
+Sicilia,2021,palestre,95
+Sicilia,2022,palestre,110
+Sicilia,2023,palestre,118
+Sicilia,2024,palestre,128
+Sicilia,2025,palestre,144
+Sicilia,2026,palestre,170
+Sicilia,2010,stadi,22
+Sicilia,2011,stadi,36
+Sicilia,2012,stadi,46
+Sicilia,2013,stadi,53
+Sicilia,2014,stadi,64
+Sicilia,2015,stadi,75
+Sicilia,2016,stadi,71
+Sicilia,2017,stadi,77
+Sicilia,2018,stadi,78
+Sicilia,2019,stadi,82
+Sicilia,2020,stadi,87
+Sicilia,2021,stadi,90
+Sicilia,2022,stadi,87
+Sicilia,2023,stadi,92
+Sicilia,2024,stadi,102
+Sicilia,2025,stadi,106
+Sicilia,2026,stadi,119
+Sardegna,2010,campi,31
+Sardegna,2011,campi,56
+Sardegna,2012,campi,381
+Sardegna,2013,campi,895
+Sardegna,2014,campi,1382
+Sardegna,2015,campi,3791
+Sardegna,2016,campi,3819
+Sardegna,2017,campi,3857
+Sardegna,2018,campi,4013
+Sardegna,2019,campi,4131
+Sardegna,2020,campi,4155
+Sardegna,2021,campi,4189
+Sardegna,2022,campi,4229
+Sardegna,2023,campi,4263
+Sardegna,2024,campi,4283
+Sardegna,2025,campi,4332
+Sardegna,2026,campi,4467
+Sardegna,2010,centri_sportivi,3
+Sardegna,2011,centri_sportivi,15
+Sardegna,2012,centri_sportivi,102
+Sardegna,2013,centri_sportivi,192
+Sardegna,2014,centri_sportivi,262
+Sardegna,2015,centri_sportivi,726
+Sardegna,2016,centri_sportivi,752
+Sardegna,2017,centri_sportivi,760
+Sardegna,2018,centri_sportivi,806
+Sardegna,2019,centri_sportivi,890
+Sardegna,2020,centri_sportivi,896
+Sardegna,2021,centri_sportivi,911
+Sardegna,2022,centri_sportivi,914
+Sardegna,2023,centri_sportivi,923
+Sardegna,2024,centri_sportivi,927
+Sardegna,2025,centri_sportivi,940
+Sardegna,2026,centri_sportivi,953
+Sardegna,2010,piste,0
+Sardegna,2011,piste,1
+Sardegna,2012,piste,17
+Sardegna,2013,piste,36
+Sardegna,2014,piste,49
+Sardegna,2015,piste,132
+Sardegna,2016,piste,132
+Sardegna,2017,piste,134
+Sardegna,2018,piste,142
+Sardegna,2019,piste,143
+Sardegna,2020,piste,148
+Sardegna,2021,piste,156
+Sardegna,2022,piste,155
+Sardegna,2023,piste,162
+Sardegna,2024,piste,171
+Sardegna,2025,piste,175
+Sardegna,2026,piste,179
+Sardegna,2010,palestre,0
+Sardegna,2011,palestre,0
+Sardegna,2012,palestre,0
+Sardegna,2013,palestre,0
+Sardegna,2014,palestre,0
+Sardegna,2015,palestre,0
+Sardegna,2016,palestre,0
+Sardegna,2017,palestre,0
+Sardegna,2018,palestre,10
+Sardegna,2019,palestre,16
+Sardegna,2020,palestre,18
+Sardegna,2021,palestre,28
+Sardegna,2022,palestre,29
+Sardegna,2023,palestre,32
+Sardegna,2024,palestre,37
+Sardegna,2025,palestre,38
+Sardegna,2026,palestre,41
+Sardegna,2010,stadi,8
+Sardegna,2011,stadi,17
+Sardegna,2012,stadi,26
+Sardegna,2013,stadi,46
+Sardegna,2014,stadi,52
+Sardegna,2015,stadi,41
+Sardegna,2016,stadi,42
+Sardegna,2017,stadi,42
+Sardegna,2018,stadi,44
+Sardegna,2019,stadi,46
+Sardegna,2020,stadi,46
+Sardegna,2021,stadi,48
+Sardegna,2022,stadi,49
+Sardegna,2023,stadi,58
+Sardegna,2024,stadi,59
+Sardegna,2025,stadi,56
+Sardegna,2026,stadi,48

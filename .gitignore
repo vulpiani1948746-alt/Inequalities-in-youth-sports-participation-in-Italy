@@ -1,0 +1,15 @@
+# Python environment (recreate with: python3 -m venv .venv && pip install -r requirements.txt)
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# ISTAT AVQ microdata: 1.3 GB, files over GitHub's 100 MB limit.
+# Free download, no registration: https://www.istat.it/microdati/aspetti-della-vita-quotidiana/
+data/raw/microdati_avq/
+
+# ISTAT boundaries archive (the extracted regional shapefile is kept)
+data/raw/confini_istat/*.zip
+
+# macOS and Obsidian
+.DS_Store
+.obsidian/

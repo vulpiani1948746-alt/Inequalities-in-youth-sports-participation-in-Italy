@@ -1,0 +1,190 @@
+gruppo,categoria,motivo,valore
+sesso,Maschi,Mancanza di tempo,39.3
+sesso,Maschi,Mancanza di interesse,29.0
+sesso,Maschi,Età,21.1
+sesso,Maschi,"Stanchezza, pigrizia",12.6
+sesso,Maschi,Motivi di salute/disabilità,15.0
+sesso,Maschi,Motivi economici,6.9
+sesso,Maschi,Motivi familiari,4.2
+sesso,Maschi,"Mancanza di impianti,orari scomodi",3.8
+sesso,Maschi,"Timidezza, disagio",0.9
+sesso,Femmine,Mancanza di tempo,31.8
+sesso,Femmine,Mancanza di interesse,33.1
+sesso,Femmine,Età,21.6
+sesso,Femmine,"Stanchezza, pigrizia",12.0
+sesso,Femmine,Motivi di salute/disabilità,15.6
+sesso,Femmine,Motivi economici,8.2
+sesso,Femmine,Motivi familiari,9.0
+sesso,Femmine,"Mancanza di impianti,orari scomodi",4.1
+sesso,Femmine,"Timidezza, disagio",1.9
+classi di età,3-5,Mancanza di tempo,6.0
+classi di età,3-5,Mancanza di interesse,14.7
+classi di età,3-5,Età,61.6
+classi di età,3-5,"Stanchezza, pigrizia",1.7
+classi di età,3-5,Motivi di salute/disabilità,2.0
+classi di età,3-5,Motivi economici,8.0
+classi di età,3-5,Motivi familiari,9.1
+classi di età,3-5,"Mancanza di impianti,orari scomodi",6.5
+classi di età,3-5,"Timidezza, disagio",4.2
+classi di età,6-10,Mancanza di tempo,19.2
+classi di età,6-10,Mancanza di interesse,27.9
+classi di età,6-10,Età,29.5
+classi di età,6-10,"Stanchezza, pigrizia",4.6
+classi di età,6-10,Motivi di salute/disabilità,4.3
+classi di età,6-10,Motivi economici,10.9
+classi di età,6-10,Motivi familiari,7.2
+classi di età,6-10,"Mancanza di impianti,orari scomodi",8.4
+classi di età,6-10,"Timidezza, disagio",2.3
+classi di età,11-14,Mancanza di tempo,32.0
+classi di età,11-14,Mancanza di interesse,47.1
+classi di età,11-14,Età,1.6
+classi di età,11-14,"Stanchezza, pigrizia",9.1
+classi di età,11-14,Motivi di salute/disabilità,8.9
+classi di età,11-14,Motivi economici,11.3
+classi di età,11-14,Motivi familiari,3.9
+classi di età,11-14,"Mancanza di impianti,orari scomodi",10.1
+classi di età,11-14,"Timidezza, disagio",1.8
+classi di età,15-17,Mancanza di tempo,42.6
+classi di età,15-17,Mancanza di interesse,48.9
+classi di età,15-17,Età,1.7
+classi di età,15-17,"Stanchezza, pigrizia",11.4
+classi di età,15-17,Motivi di salute/disabilità,3.9
+classi di età,15-17,Motivi economici,6.8
+classi di età,15-17,Motivi familiari,2.3
+classi di età,15-17,"Mancanza di impianti,orari scomodi",7.3
+classi di età,15-17,"Timidezza, disagio",4.4
+classi di età,18-19,Mancanza di tempo,44.2
+classi di età,18-19,Mancanza di interesse,44.3
+classi di età,18-19,Età,0.0
+classi di età,18-19,"Stanchezza, pigrizia",15.8
+classi di età,18-19,Motivi di salute/disabilità,5.1
+classi di età,18-19,Motivi economici,13.4
+classi di età,18-19,Motivi familiari,2.3
+classi di età,18-19,"Mancanza di impianti,orari scomodi",5.8
+classi di età,18-19,"Timidezza, disagio",3.4
+classi di età,20-24,Mancanza di tempo,49.2
+classi di età,20-24,Mancanza di interesse,41.3
+classi di età,20-24,Età,0.6
+classi di età,20-24,"Stanchezza, pigrizia",14.6
+classi di età,20-24,Motivi di salute/disabilità,4.1
+classi di età,20-24,Motivi economici,9.7
+classi di età,20-24,Motivi familiari,2.4
+classi di età,20-24,"Mancanza di impianti,orari scomodi",5.6
+classi di età,20-24,"Timidezza, disagio",5.2
+classi di età,25-34,Mancanza di tempo,54.2
+classi di età,25-34,Mancanza di interesse,35.6
+classi di età,25-34,Età,0.3
+classi di età,25-34,"Stanchezza, pigrizia",13.0
+classi di età,25-34,Motivi di salute/disabilità,3.5
+classi di età,25-34,Motivi economici,13.6
+classi di età,25-34,Motivi familiari,8.7
+classi di età,25-34,"Mancanza di impianti,orari scomodi",6.5
+classi di età,25-34,"Timidezza, disagio",2.6
+classi di età,35-44,Mancanza di tempo,59.3
+classi di età,35-44,Mancanza di interesse,29.2
+classi di età,35-44,Età,0.6
+classi di età,35-44,"Stanchezza, pigrizia",14.2
+classi di età,35-44,Motivi di salute/disabilità,5.6
+classi di età,35-44,Motivi economici,10.5
+classi di età,35-44,Motivi familiari,11.4
+classi di età,35-44,"Mancanza di impianti,orari scomodi",4.8
+classi di età,35-44,"Timidezza, disagio",2.0
+classi di età,45-54,Mancanza di tempo,55.6
+classi di età,45-54,Mancanza di interesse,31.3
+classi di età,45-54,Età,3.2
+classi di età,45-54,"Stanchezza, pigrizia",15.2
+classi di età,45-54,Motivi di salute/disabilità,9.0
+classi di età,45-54,Motivi economici,10.7
+classi di età,45-54,Motivi familiari,8.6
+classi di età,45-54,"Mancanza di impianti,orari scomodi",4.9
+classi di età,45-54,"Timidezza, disagio",0.9
+classi di età,55-59,Mancanza di tempo,47.9
+classi di età,55-59,Mancanza di interesse,34.5
+classi di età,55-59,Età,6.0
+classi di età,55-59,"Stanchezza, pigrizia",14.8
+classi di età,55-59,Motivi di salute/disabilità,12.9
+classi di età,55-59,Motivi economici,9.6
+classi di età,55-59,Motivi familiari,7.8
+classi di età,55-59,"Mancanza di impianti,orari scomodi",4.6
+classi di età,55-59,"Timidezza, disagio",0.8
+classi di età,60-64,Mancanza di tempo,33.9
+classi di età,60-64,Mancanza di interesse,36.5
+classi di età,60-64,Età,14.4
+classi di età,60-64,"Stanchezza, pigrizia",16.1
+classi di età,60-64,Motivi di salute/disabilità,16.7
+classi di età,60-64,Motivi economici,7.0
+classi di età,60-64,Motivi familiari,8.4
+classi di età,60-64,"Mancanza di impianti,orari scomodi",2.9
+classi di età,60-64,"Timidezza, disagio",0.9
+classi di età,65-74,Mancanza di tempo,16.0
+classi di età,65-74,Mancanza di interesse,35.7
+classi di età,65-74,Età,31.1
+classi di età,65-74,"Stanchezza, pigrizia",13.7
+classi di età,65-74,Motivi di salute/disabilità,24.0
+classi di età,65-74,Motivi economici,3.9
+classi di età,65-74,Motivi familiari,5.8
+classi di età,65-74,"Mancanza di impianti,orari scomodi",2.3
+classi di età,65-74,"Timidezza, disagio",1.0
+classi di età,75 e più,Mancanza di tempo,5.0
+classi di età,75 e più,Mancanza di interesse,19.4
+classi di età,75 e più,Età,65.2
+classi di età,75 e più,"Stanchezza, pigrizia",6.0
+classi di età,75 e più,Motivi di salute/disabilità,33.2
+classi di età,75 e più,Motivi economici,1.5
+classi di età,75 e più,Motivi familiari,3.0
+classi di età,75 e più,"Mancanza di impianti,orari scomodi",1.0
+classi di età,75 e più,"Timidezza, disagio",0.3
+ripartizioni geografiche,Italia nord-occidentale,Mancanza di tempo,35.4
+ripartizioni geografiche,Italia nord-occidentale,Mancanza di interesse,30.6
+ripartizioni geografiche,Italia nord-occidentale,Età,23.9
+ripartizioni geografiche,Italia nord-occidentale,"Stanchezza, pigrizia",13.6
+ripartizioni geografiche,Italia nord-occidentale,Motivi di salute/disabilità,16.7
+ripartizioni geografiche,Italia nord-occidentale,Motivi economici,7.1
+ripartizioni geografiche,Italia nord-occidentale,Motivi familiari,6.7
+ripartizioni geografiche,Italia nord-occidentale,"Mancanza di impianti,orari scomodi",3.6
+ripartizioni geografiche,Italia nord-occidentale,"Timidezza, disagio",1.6
+ripartizioni geografiche,Italia nord-orientale,Mancanza di tempo,38.8
+ripartizioni geografiche,Italia nord-orientale,Mancanza di interesse,26.8
+ripartizioni geografiche,Italia nord-orientale,Età,23.2
+ripartizioni geografiche,Italia nord-orientale,"Stanchezza, pigrizia",14.0
+ripartizioni geografiche,Italia nord-orientale,Motivi di salute/disabilità,16.6
+ripartizioni geografiche,Italia nord-orientale,Motivi economici,7.6
+ripartizioni geografiche,Italia nord-orientale,Motivi familiari,6.9
+ripartizioni geografiche,Italia nord-orientale,"Mancanza di impianti,orari scomodi",3.5
+ripartizioni geografiche,Italia nord-orientale,"Timidezza, disagio",1.5
+ripartizioni geografiche,Italia centrale,Mancanza di tempo,36.7
+ripartizioni geografiche,Italia centrale,Mancanza di interesse,28.2
+ripartizioni geografiche,Italia centrale,Età,21.9
+ripartizioni geografiche,Italia centrale,"Stanchezza, pigrizia",14.9
+ripartizioni geografiche,Italia centrale,Motivi di salute/disabilità,16.5
+ripartizioni geografiche,Italia centrale,Motivi economici,9.4
+ripartizioni geografiche,Italia centrale,Motivi familiari,6.5
+ripartizioni geografiche,Italia centrale,"Mancanza di impianti,orari scomodi",5.4
+ripartizioni geografiche,Italia centrale,"Timidezza, disagio",1.8
+ripartizioni geografiche,Italia meridionale,Mancanza di tempo,32.6
+ripartizioni geografiche,Italia meridionale,Mancanza di interesse,34.5
+ripartizioni geografiche,Italia meridionale,Età,18.9
+ripartizioni geografiche,Italia meridionale,"Stanchezza, pigrizia",8.9
+ripartizioni geografiche,Italia meridionale,Motivi di salute/disabilità,13.0
+ripartizioni geografiche,Italia meridionale,Motivi economici,7.1
+ripartizioni geografiche,Italia meridionale,Motivi familiari,6.7
+ripartizioni geografiche,Italia meridionale,"Mancanza di impianti,orari scomodi",3.3
+ripartizioni geografiche,Italia meridionale,"Timidezza, disagio",1.1
+ripartizioni geografiche,Italia insulare,Mancanza di tempo,32.3
+ripartizioni geografiche,Italia insulare,Mancanza di interesse,36.6
+ripartizioni geografiche,Italia insulare,Età,17.8
+ripartizioni geografiche,Italia insulare,"Stanchezza, pigrizia",10.4
+ripartizioni geografiche,Italia insulare,Motivi di salute/disabilità,14.0
+ripartizioni geografiche,Italia insulare,Motivi economici,7.2
+ripartizioni geografiche,Italia insulare,Motivi familiari,8.1
+ripartizioni geografiche,Italia insulare,"Mancanza di impianti,orari scomodi",4.8
+ripartizioni geografiche,Italia insulare,"Timidezza, disagio",1.2
+ripartizioni geografiche,Italia,Mancanza di tempo,35.1
+ripartizioni geografiche,Italia,Mancanza di interesse,31.2
+ripartizioni geografiche,Italia,Età,21.3
+ripartizioni geografiche,Italia,"Stanchezza, pigrizia",12.3
+ripartizioni geografiche,Italia,Motivi di salute/disabilità,15.3
+ripartizioni geografiche,Italia,Motivi economici,7.6
+ripartizioni geografiche,Italia,Motivi familiari,6.9
+ripartizioni geografiche,Italia,"Mancanza di impianti,orari scomodi",4.0
+ripartizioni geografiche,Italia,"Timidezza, disagio",1.4
