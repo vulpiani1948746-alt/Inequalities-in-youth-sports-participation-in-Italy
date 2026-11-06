@@ -13,3 +13,4 @@ data/raw/confini_istat/*.zip
 # macOS and Obsidian
 .DS_Store
 .obsidian/
+Presentation script.md
